@@ -1,0 +1,1 @@
+<div class="module-full-screen-more"><a href="[field:typeurl/]" target="_blank">查看更多案例</a></div>

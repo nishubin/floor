@@ -1,0 +1,1 @@
+<div class="module-full-screen-more"><a href="[field:typeurl/]" target="_blank">更多产品</a></div>

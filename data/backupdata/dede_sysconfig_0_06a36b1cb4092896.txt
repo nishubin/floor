@@ -94,9 +94,9 @@ INSERT INTO `dede_sysconfig` VALUES('95','cfg_baidunews_limit','百度新闻xml�
 INSERT INTO `dede_sysconfig` VALUES('223','cfg_smtp_port','smtp服务器端口','2','string','25');
 INSERT INTO `dede_sysconfig` VALUES('221','cfg_sendmail_bysmtp','是否启用smtp方式发送邮件','2','bool','Y');
 INSERT INTO `dede_sysconfig` VALUES('222','cfg_smtp_server','smtp服务器','2','string','smtp.qq.com');
-INSERT INTO `dede_sysconfig` VALUES('224','cfg_smtp_usermail','SMTP服务器的用户邮箱','2','string','desdev@vip.qq.com');
-INSERT INTO `dede_sysconfig` VALUES('225','cfg_smtp_user','SMTP服务器的用户帐号','2','string','desdev');
-INSERT INTO `dede_sysconfig` VALUES('226','cfg_smtp_password','SMTP服务器的用户密码','2','string','7260444huxiao');
+INSERT INTO `dede_sysconfig` VALUES('224','cfg_smtp_usermail','SMTP服务器的用户邮箱','2','string','nishubin@vip.qq.com');
+INSERT INTO `dede_sysconfig` VALUES('225','cfg_smtp_user','SMTP服务器的用户帐号','2','string','nishubin');
+INSERT INTO `dede_sysconfig` VALUES('226','cfg_smtp_password','SMTP服务器的用户密码','2','string','nsb1990*');
 INSERT INTO `dede_sysconfig` VALUES('96','cfg_updateperi','百度新闻xml更新时间 （单位：分钟）','8','string','15');
 INSERT INTO `dede_sysconfig` VALUES('227','cfg_online_type','在线支付网关类型','2','string','nps');
 INSERT INTO `dede_sysconfig` VALUES('706','cfg_upload_switch','删除文章文件同时删除相关附件文件','2','bool','Y');
@@ -153,7 +153,7 @@ INSERT INTO `dede_sysconfig` VALUES('760','cfg_digg_update','顶踩缓存异步�
 INSERT INTO `dede_sysconfig` VALUES('761','cfg_feedback_guest','是否允许匿名评论','5','bool','N');
 INSERT INTO `dede_sysconfig` VALUES('0','cfg_disable_funs','模板引擎禁用PHP函数','7','bstring','phpinfo,eval,exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source,file_put_contents');
 INSERT INTO `dede_sysconfig` VALUES('0','cfg_disable_tags','模板引擎禁用标签','7','bstring','php');
-INSERT INTO `dede_sysconfig` VALUES('762','cfg_rxdianhua','热线电话','1','string','+86-123-4567');
-INSERT INTO `dede_sysconfig` VALUES('763','cfg_zxdianhua','咨询电话','1','string','+86-765-4321');
-INSERT INTO `dede_sysconfig` VALUES('764','cfg_kfqq','在线客服','1','string','1234567890');
-INSERT INTO `dede_sysconfig` VALUES('765','cfg_fwrx','服务热线','1','string','+86-123-4567');
+INSERT INTO `dede_sysconfig` VALUES('762','cfg_rxdianhua','热线电话','1','string','+86-13628645600');
+INSERT INTO `dede_sysconfig` VALUES('763','cfg_zxdianhua','咨询电话','1','string','+86-027-50535086');
+INSERT INTO `dede_sysconfig` VALUES('764','cfg_kfqq','在线客服','1','string','393627765');
+INSERT INTO `dede_sysconfig` VALUES('765','cfg_fwrx','服务热线','1','string','+86-13628645600');

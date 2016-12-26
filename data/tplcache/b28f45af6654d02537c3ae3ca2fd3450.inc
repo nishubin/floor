@@ -1,0 +1,1 @@
+<div class="float-right detail-bottom-button"><a href="[field:typeurl /]">查看更多</a></div>
